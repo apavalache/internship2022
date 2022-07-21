@@ -1,0 +1,53 @@
+{
+	"quiz": [{
+			"question": "What is the longest that an elephant has ever lived? (That we know of)",
+			"choices": [
+				"17 years",
+				"49 years",
+				"86 years",
+				"142 years"
+			],
+			"correctAnswerIndex": 2
+		},
+		{
+			"question": "How many rings are on the Olympic flag?",
+			"choices": [
+				"None",
+				"4",
+				"5",
+				"7"
+			],
+			"correctAnswerIndex": 2
+		},
+		{
+			"question": "Which of these animals does NOT appear in the Chinese zodiac?",
+			"choices": [
+				"Bear",
+				"Rabbit",
+				"Dragon",
+				"Dog"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"question": "What are the main colors on the flag of Spain?",
+			"choices": [
+				"Black & yellow",
+				"Green and white",
+				"Blue and white",
+				"Red and yellow"
+			],
+			"correctAnswerIndex": 3
+		},
+		{
+			"question": "In darts, what's the most points you can score with a single throw?",
+			"choices": [
+				"40",
+				"60",
+				"80",
+				"100"
+			],
+			"correctAnswerIndex": 1
+		}
+	]
+}

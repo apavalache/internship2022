@@ -1,0 +1,44 @@
+[
+  {
+    "date": "2018-05-06",
+    "summary": "Cold",
+    "temperatureFmin": 31,
+    "temperatureFmax": 38
+  },
+  {
+    "date": "2018-05-07",
+    "summary": "Freezing",
+    "temperatureFmin": 9,
+    "temperatureFmax": 16
+  },
+  {
+    "date": "2018-05-08",
+    "summary": "Cold",
+    "temperatureFmin": 34,
+    "temperatureFmax": 39
+  },
+  {
+    "date": "2018-05-09",
+    "summary": "Cold",
+    "temperatureFmin": 45,
+    "temperatureFmax": 33
+  },
+  {
+    "date": "2018-05-10",
+    "summary": "Chilly",
+    "temperatureFmin": 49,
+    "temperatureFmax": 54
+  },
+  {
+    "date": "2018-05-11",
+    "summary": "Warm",
+    "temperatureFmin": 53,
+    "temperatureFmax": 62
+  },
+  {
+    "date": "2018-05-12",
+    "summary": "Hot",
+    "temperatureFmin": 67,
+    "temperatureFmax": 83
+  }
+]

@@ -1,0 +1,47 @@
+  [
+    {
+      "id": 1,
+      "title": "Fier de calcat Tefal Maestro 2 FV1844E0",
+      "description": "Fierul de calcat cu abur Maestro ofera atat performante de inalta calitate cat si o manevrabilitate buna a acestuia fara a depune efort in plus. Aburul variabil de 35 g/min asigura sesiuni de calcat eficiente, iar jetul de abur de 110g /min reuseste sa faca fata celor mai dificile cute. Talpa de dimensiune mare confectionata din ceramica a fost proiectata pentru a acoperi o suprafaţa cat mai mare, in timp ce declansatorul pentru apa si abur este la indemana pentru o pozitie cat mai naturala a utilizatorului. Produsul dispune de un set impresionant de functii si caracteristici precum: sistem antipicurare, rezervor de apa de mari dimensiuni usor de alimentat si cu vizibilitate asupra nivelului de apa, protectie anticalcar si altele – fierul de calcat cu abur Maestro asigura eficienta si confort la fiecare folosire.",
+      "imageUrl": "https://raw.githubusercontent.com/apavalache/internship2021/main/img/fier1.jpg",
+      "power": 2300,
+      "price": 118.93,
+      "currency": "RON"
+    },
+    {
+      "id": 2,
+      "title": "Fier de calcat Star-Light Easy SIA-2230",
+      "description": "Avand un design placut, SIA-2230 cu functiile pe care le contine,  iti ofera o serie de avantaje ce iti permit sa calci usor orice tip de tesatura cu un minim de efort. Hainele tale din material sensibil, precum matasea sau poliesterul, nu se vor mai lipi in timp ce le calci. In plus, rezistenta la zagarieturi sau temperaturi ridicate, talpa din ceramica este una dintre cele mai populare si calitative. Ea se incalzeste uniform si aluneca usor, facilitand astfel calcatul hainelor.",
+      "imageUrl": "https://raw.githubusercontent.com/apavalache/internship2021/main/img/fier2.jpg",
+      "power": 2200,
+      "price": 69.99,
+      "currency": "RON"
+    },
+    {
+      "id": 3,
+      "title": "Fier De Calcat Voiaj Heinner",
+      "description": "Produsele se caracterizeaza prin design compact si ergonomic, completat de functii multiple pentru usurinta, eficienta si confort in utilizare. Heinner reprezinta combinatia perfecta dintre confort, utilitate, ergonomie si functionalitate, pentru a va oferi tot ceea ce aveti nevoie intr-un singur loc.",
+      "imageUrl": "https://raw.githubusercontent.com/apavalache/internship2021/main/img/fier3.jpg",
+      "power": 1000,
+      "price": 65.95,
+      "currency": "RON"
+    },
+    {
+      "id": 4,
+      "title": "Fier de calcat portabil Rowenta First Class DA1510F2",
+      "description": "Special conceput pentru a te insoti in calatorii, fierul de calcat Rowenta First Class este partenerul tau de incredere, oferind rezultate fara cusur oriunde si oricand. Poate fi utilizat international datorita voltajului dublu si este foarte usor de transportat, avand un design compact si usor, cu maner pliabil si fiind prevazut cu husa pentru depozitare. Distributia optima a aburului este asigurata prin tehnologia unica patentata a talpii Microsteam cu 200 de micro-orificii, iar precizia este imbunatatita datorita varfului de precizie pentru zonele dificil de accesat. Aburul continuu de 10 g/min netezeste cutele, iar jetul de abur de 45 g/min ofera rezultate ideale chiar si in cazul tesaturilor groase sau cutelor incapatanate. Rowenta First Class este partenerul de incredere pentru calatorii, garantand rezultate perfecte oriunde si oricand.",
+      "imageUrl": "https://raw.githubusercontent.com/apavalache/internship2021/main/img/fier4.jpg",
+      "power": 1000,
+      "price": 107.94,
+      "currency": "RON"
+    },
+    {
+      "id": 5,
+      "title": "Fier de calcat Philips Azur GC4532/20",
+      "description": "Talpa SteamGlide este cea mai buna talpa Philips. Are o rezistenta sporita la zgariere, gliseaza excelent si este usor de curatat. Jetul de abur de pana la 180 g indeparteaza rapid cutele persistente. Debit de abur continuu, de pana la 45 g/min, pentru o indepartare optima a cutelor.",
+      "imageUrl": "https://raw.githubusercontent.com/apavalache/internship2021/main/img/fier5.jpg",
+      "power": 2400,
+      "price": 229.99,
+      "currency": "RON"
+    }
+  ]
